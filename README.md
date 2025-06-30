@@ -5,7 +5,7 @@
 ## Установка
 
 ```bash
-go get github.com/go-co-op/gocron/v2
+go get github.com/antibomberman/scheduler
 ```
 
 ## Быстрый старт

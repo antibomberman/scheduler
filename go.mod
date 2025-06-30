@@ -1,4 +1,4 @@
-module scheduler
+module github.com/antibomberman/scheduler
 
 go 1.24.3
 
